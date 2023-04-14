@@ -26,7 +26,7 @@ function Project() {
           <div className="project" key={project.id}>
              {console.log(types.find(type => type.id === project.type_id)?.title)}
             <img src={project.image}  alt={project.title} />
-            <h2>{project.title}- {types.find(type => type.id === project.type_id)?.title}
+            <h2>{project.title}
 </h2>
 <p>{project.type.title}</p>
             <p>{project.content}</p>
