@@ -1,0 +1,32 @@
+.About {
+    padding-top: 120px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    text-align: justify;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    height: 100% ;
+  }
+  
+  .About  h1 {
+    font-size: 36px;
+    color: #333;
+    text-align: center;
+  }
+  
+  .About p {
+    margin-left: 25%;
+    max-width: 900px;
+   margin-top: -10px;
+  }
+  
+  #profile{
+    float: right;
+  }
+
+#contact{
+  margin-left: 25%;
+  margin-bottom: 20px;
+}
