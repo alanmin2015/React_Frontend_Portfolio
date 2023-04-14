@@ -1,0 +1,39 @@
+.AppProjects {
+    font-family: Arial, sans-serif;
+    max-width: 960px;
+    margin: 0 auto; /* centers the container */
+    margin-top: 120px;
+    padding: 20px; /* adds margin on the sides */
+  }
+  
+  h1 {
+    text-align: center; /* centers the title */
+  }
+  
+  .projects {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .project {
+    width: 45%; /* two columns per row */
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    padding: 20px;
+  }
+  
+  .project img {
+    max-width: 100%;
+  }
+  
+  .project h2 {
+    margin-top: 0;
+    font-size: 24px;
+  }
+  
+  .project p {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
