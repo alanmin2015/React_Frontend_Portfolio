@@ -24,13 +24,13 @@ function Project() {
       <div className="projects">
         {projects.map(project => (
           <div className="project" key={project.id}>
-             {console.log(types.find(type => type.id === project.type_id)?.title)}
+             {/* {console.log(project)} */}
             <img src={project.image}  alt={project.title} />
             <h2>{project.title}
 </h2>
 <p>{project.type.title}</p>
             <p>{project.content}</p>
-            <a href={project.url}>Github</a>             
+            <a href={project.url}>Github/Link</a>             
           </div>
         ))}
       </div>
