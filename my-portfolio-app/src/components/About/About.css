@@ -17,16 +17,17 @@
   }
   
   .About p {
-    margin-left: 25%;
-    max-width: 900px;
+    margin-left: 20%;
+    max-width: 60%;
    margin-top: -10px;
   }
   
   #profile{
     float: right;
+    width: 24%;
   }
 
 #contact{
-  margin-left: 25%;
+  margin-left: 20%;
   margin-bottom: 20px;
 }

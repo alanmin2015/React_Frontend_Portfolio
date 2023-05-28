@@ -8,8 +8,6 @@ header {
   align-items: center;
   justify-content: flex-start;
   background-color: #060606;
-  padding: 8px;
-  
 }
 
 header nav {
@@ -45,6 +43,6 @@ header .logo{
 
 
 header .logomove{
-  height: 90px;
+  height: 70px;
   translate: 10px ;
 }

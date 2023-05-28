@@ -7,9 +7,9 @@ function About() {
     <div className="About">
       <h1>About Me</h1>
       <p>
-        <img id="profile" src={profile} alt="profile" height="280" /> Hi there,
-        I am a highly motivated person in the last year of my studies in the Web
-        Development Program at Humber College. With a background in Engineering,
+        <img id="profile" src={profile} alt="profile" /> Hi there,
+        I am a highly motivated developer in the last year of my studies in the Web
+        Development Program at Humber College and doing my summer internship in Miebach Consulting Group as a Front-End Developer. With a background in Engineering,
         Project Management, and Web Development, I am excited to leverage my
         knowledge, skills, and experience to contribute to your team. I have a
         Bachelor’s degree in Mechanical Engineering from the University of

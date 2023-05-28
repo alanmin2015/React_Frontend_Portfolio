@@ -17,7 +17,7 @@ function Header() {
   });
     return (
       <header>
-         <img class="logo" id="logo" src={logo} alt="Logo" height="130" />
+         <img class="logo" id="logo" src={logo} alt="Logo" height="100" />
     <nav>
       <ul>
         <li>

@@ -1,13 +1,46 @@
 .home-container {
+  margin-top: 5vh;
+  margin-bottom: 5%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     height: calc(100vh - 40px);
-    
   }
 
   .home-container p{
+    font-size: large;
     width: 60%;
+    line-height: 1.5;
+    opacity: 0; /* Start with transparent text */
+    animation: appear 3s ease-in-out forwards;
   }
+
+  @keyframes appear {
+    from {
+      opacity: 0;
+      transform: translateY(-10px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  .icon-container {
+    display: flex;
+  }
+  
+  .icon-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 1rem;
+  }
+  
+  .icon-text {
+    margin-top: 0.5rem;
+    font-size: 0.9rem;
+  }
+  
   
