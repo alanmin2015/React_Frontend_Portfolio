@@ -5,9 +5,16 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+html{     background-image: linear-gradient(to right, transparent, white 20%, white 90%, transparent),url("image/1.png");
+  background-repeat: repeat;
+  background-size: contain; 
+  background-position: right bottom;
 }
