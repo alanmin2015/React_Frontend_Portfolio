@@ -9,11 +9,11 @@ function About() {
       <p>
         <img id="profile" src={profile} alt="profile" /> Hi there,
         I am a highly motivated developer in the last year of my studies in the Web
-        Development Program at Humber College and doing my summer internship in Miebach Consulting Group as a Front-End Developer. With a background in Engineering,
+        Development Program at Humber College and doing my current job in Miebach Consulting Group as a Front-End Developer. With a background in Engineering,
         Project Management, and Web Development, I am excited to leverage my
         knowledge, skills, and experience to contribute to your team. I have a
-        Bachelor’s degree in Mechanical Engineering from the University of
-        Birmingham and a Master’s degree in Mechanical Engineering from McGill
+        Bachelor's degree in Mechanical Engineering from the University of
+        Birmingham and a Master's degree in Mechanical Engineering from McGill
         University, published two papers, and completed in one year and a half.
         In addition, I have completed three years of relevant professional
         experience in fluid dynamic engineering and project management. Through

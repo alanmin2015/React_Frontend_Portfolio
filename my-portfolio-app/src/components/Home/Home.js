@@ -7,8 +7,9 @@ function Home() {
   return (
     <div className="home-container">
       <h1>Welcome to my portfolio website</h1>
-      <p>&nbsp;&nbsp;&nbsp;&nbsp;My name is Wenbo Min, and I am a passionate and energetic Full-Stack developer. I have a strong motivation for creating stunning and highly functional websites, software, and applications with concise and readable code. I invite you to explore some of my recent projects, and if you are interested in collaborating, please don't hesitate to get in touch. I will be available starting from August 18th. 
+      <p>&nbsp;&nbsp;&nbsp;&nbsp;My name is Wenbo Min, and I am a passionate and energetic Full-Stack developer currently working in Miebach Consulting Inc. I have a strong motivation for creating stunning and highly functional websites, software, and applications with concise and readable code. I invite you to explore some of my recent projects, and if you are interested in collaborating, please don't hesitate to get in touch. 
       <br/>
+      <div>&nbsp;&nbsp;&nbsp;&nbsp;Currently looking for Front-End Developer, Web Developer and Full-Stack Developer position based in Greater Toronto Area. Willing to work remotely within Canada. Also available to work in USA(TN VISA).</div>
       <br/>Technology used in this Website: 
       <br/>
       <div className="icon-container">
